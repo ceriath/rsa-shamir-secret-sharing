@@ -47,7 +47,7 @@ func interpolate(shares []Share) []byte {
 	// calculate in gf256
 	field := gf256.NewField(gf256.RijndaelPolynomial, gf256.RijndaelGenerator)
 
-	// do an interpolation for each byte seperately
+	// do an interpolation for each byte separately
 	for byteCounter := 0; byteCounter < len(shares[0].Values); byteCounter++ {
 		singleResult := byte(0)
 
