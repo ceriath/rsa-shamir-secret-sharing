@@ -6,7 +6,7 @@
 
 ---
 
-## **This tool has been written for academic reasons only. I do not recommend to use it in production since it may contain security flaws**  
+## **This tool has been written for academic reasons only. I do not recommend to use it in production since it may contain security flaws. It is written with the best of my knowledge and belief, but i am not a cryptographer and can not guarantee anything.**  
 However, if you find any security flaws, please open an issue without disclosing the flaw or contact me via email. I prefer responsible disclosures.  
 
 ---
